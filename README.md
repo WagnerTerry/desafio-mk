@@ -24,7 +24,7 @@ Rank,Artist,Pontos
 ## Resolução
 
 O desafio foi feito com Python, utilizando o Jupyter Notebook , que  é uma aplicação web de código aberto que permite criar e compartilhar documentos que contêm código interativo,
-visualizações, texto explicativo e equações matemáticas e para análise dos dados, utilizei a biblioteca Pandas, onde pude fazer todas as alterações exigidas.
+visualizações, texto explicativo e equações matemáticas. Para análise dos dados, utilizei a biblioteca Pandas, onde pude fazer todas as alterações exigidas.
 
 Para instalar o pandas rode o comando ( com o venv já instalado )
 
